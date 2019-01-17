@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="SoapUI.Beginner" soapui-version="5.4.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project name="Calculator">D:/Sunil_Kumar/SoapUI/Calculator-soapui-project.xml</con:project>
+  <con:project status="CLOSED" name="Calculator">D:/Sunil_Kumar/SoapUI/Calculator-soapui-project.xml</con:project>
+  <con:project name="CalculatorAssignment">D:/Sunil_Kumar/SoapUI/CalculatorAssignment-soapui-project.xml</con:project>
+  <con:project name="SunilKumar_Assignment2_Chapter3">D:/Sunil_Kumar/SoapUI/SunilKumar-Assignment2-Chapter3-soapui-project.xml</con:project>
+  <con:project name="AssignmentAPI">D:/Sunil_Kumar/SoapUI/AssignmentAPI.xml</con:project>
 </con:soapui-workspace>
